@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIVINEXWELLNESS</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>DIVINEXWELLNESS</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="forms.html">Forms</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="services">
+            <h2>Our Services</h2>
+            <p>Explore our range of services including yoga therapy, Sanjeevani Healing, meditation, and health products.</p>
+            <!-- You can add more details about each service here -->
+        </section>
+        <section class="portfolio">
+            <h2>Portfolio</h2>
+            <div class="portfolio-item">
+                <h3>Weight Loss Belt</h3>
+                <p>Description: A revolutionary weight loss belt designed to help you achieve your fitness goals.</p>
+            </div>
+            <div class="portfolio-item">
+                <h3>Cool Eyes Gel Pad</h3>
+                <p>Description: Soothe tired eyes and reduce puffiness with our cooling gel eye pads.</p>
+            </div>
+            <!-- You can add more portfolio items here -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 DIVINEXWELLNESS</p>
+    </footer>
+</body>
+</html>
